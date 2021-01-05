@@ -5,7 +5,9 @@ It is to generate the analysis report for covid19.
 You'll want to clone the repo.
 
 ```
-If you have any trouble doing this, you can download the zip folder of this repo and then extract the files to a local file. Once you have all the files cloned locally, you should make sure you have all the necessary libraries installed.
+If you have any trouble doing this, 
+- you can download the zip folder of this repo and then extract the files to a local file. 
+- Once you have all the files cloned locally, you should make sure you have all the necessary libraries installed.
 ```
 $ pip install fpdf
 $ pip install pandas numpy matplotlib
