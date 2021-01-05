@@ -1,5 +1,5 @@
 # Generate Analytics Report
-It is to generate the analysis report for covid19.
+To generate the analytics report follow the steps.
 
 ## Setup
 You'll want to clone the repo.
